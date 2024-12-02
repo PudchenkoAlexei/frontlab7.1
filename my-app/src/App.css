@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+body {
+  padding: 0;
+  margin: 10px;
+  background-color: #ffffff;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 20px;
+}
+
+.photo-city {
+  height: 450px;
+}
+.buttons-container {
+  margin-top: 20px;
+}
+button {
+  margin: 0px;
+  padding: 10px 15px;
+  font-size: 16px;
+}
